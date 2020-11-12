@@ -1,7 +1,9 @@
 # My Blog Software Requirements
 ---
 ## Goals
->
+> | TASK | STATUS |
+> | ---| --- |
+> | Complete 3rd User Story for being able to add a new post | WIP |
 ## User Stories
 >
 ## User Flow
